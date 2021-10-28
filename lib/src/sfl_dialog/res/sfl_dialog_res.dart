@@ -1,0 +1,4 @@
+enum SFLDialogType {
+  PlatformSpecific,
+  Default,
+}

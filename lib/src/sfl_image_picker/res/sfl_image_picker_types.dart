@@ -1,0 +1,4 @@
+enum SFLImagePickerTypes {
+  single,
+  multiple,
+}

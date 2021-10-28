@@ -1,0 +1,1 @@
+enum ToastDirection { top, bottom }
